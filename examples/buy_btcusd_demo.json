@@ -1,0 +1,8 @@
+{
+  "action": "BUY",
+  "symbol": "BTCUSD",
+  "volume": 0.01,
+  "deviation": 50,
+  "magic": 260308,
+  "comment": "PythonBridge"
+}
